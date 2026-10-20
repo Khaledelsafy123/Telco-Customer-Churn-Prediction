@@ -2,8 +2,9 @@
 
 A machine learning project that predicts customer churn in the telecommunications industry by training and comparing five classification models.
 
-## Overview
+[View Notebook on Kaggle](https://www.kaggle.com/code/khalod05/telco-churn-prediction-ml-model-comparison)
 
+## Overview
 Customer churn occurs when customers stop using a company's services. Predicting churn can help businesses identify customers who may leave and make better retention decisions.
 
 This project covers data preprocessing, feature encoding, feature scaling, hyperparameter tuning, and model evaluation.
